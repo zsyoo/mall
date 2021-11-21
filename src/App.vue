@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-
+   我是APP
   </div>
 </template>
 
@@ -16,5 +16,5 @@ export default {
 </script>
 
 <style>
-
+@import './src/assets/css/base.css';
 </style>
